@@ -6,7 +6,7 @@ Unoffical PyTorch implementation.
 
 ## Architecture
 <p align="center">
-  <img src="images/architecture.png" width="600"/>
+  <img src="images/architecture.png" width="800"/>
 </p>
 
 ## Setup
@@ -19,7 +19,7 @@ Data for MNIST and SVHN datasets will be automatically downloaded.
 For other datasets, download data and place into the appropriate directory (`_DATA` by default, change in config file).
 
 ### Training
-Select which config to use from dann/config.py.
+Select which config to use from `dann/config.py`.
 ```
 python train.py
 ```
