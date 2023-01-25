@@ -26,7 +26,9 @@ python train.py
 
 ## Experiments
 ### SVHN -> MNIST
+
 | Methods                    | MNIST -> MNIST-M | SYN -> SVHN   | SVHN -> MNIST | SYN -> GTSRB  |
+| ---                        | ---              | ---           | ---           | ---           |
 | Train on source only       | 52.25            | 86.74         | 54.90         | 79.00         |
 | SA (Fernando et al., 2013) | 56.90 (4.1%)     | 86.44 (−5.5%) | 59.32 (9.9%)  | 81.65 (12.7%) |
 | DANN                       | 76.66 (52.9%)    | 91.09 (79.7%) | 73.85 (42.6%) | 88.65 (46.4%) |
