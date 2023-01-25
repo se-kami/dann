@@ -6,7 +6,7 @@ Unoffical PyTorch implementation.
 
 ## Architecture
 <p align="center">
-  <img src="images/architecture.png" width="400"/>
+  <img src="images/architecture.png" width="600"/>
 </p>
 
 ## Setup
