@@ -25,7 +25,7 @@ python train.py
 ```
 
 ## Experiments
-### SVHN -> MNIST
+### Digits
 
 | Methods                    | MNIST -> MNIST-M | SYN -> SVHN   | SVHN -> MNIST | SYN -> GTSRB  |
 | ---                        | ---              | ---           | ---           | ---           |
